@@ -109,7 +109,7 @@ const Home = () => {
         {/* Quick Action Buttons */}
         <View style={styles.actionRow}>
           <TouchableOpacity
-            onPress={() => Linking.openURL('https://bhardwajhospitals.in/')}
+            // onPress={() => Linking.openURL('https://bhardwajhospitals.in/')}
             style={styles.actionButton}
           >
             <Text style={styles.actionText}>Services</Text>

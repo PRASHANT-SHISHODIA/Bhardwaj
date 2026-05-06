@@ -31,10 +31,10 @@ const Splash = () => {
         justifyContent:'center',
         flex:1
       }}>
-        <Image 
+        {/* <Image 
           source={require('../assets/Images/Splash.png')}
           style={{width: 200, height: 200, resizeMode: 'contain'}}
-        />
+        /> */}
       </View>
     </SafeAreaView>
   )
